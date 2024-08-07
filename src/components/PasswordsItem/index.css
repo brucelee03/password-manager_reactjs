@@ -80,7 +80,7 @@
 }
 .delete-icon {
   width: 30px;
-  margin-left: -6px;
+  margin-left: auto;
   margin-top: -3px;
 }
 
@@ -110,7 +110,7 @@
   .delete-icon {
     width: 22px;
     height: 22px;
-    margin-left: -6px;
+    margin-left: auto;
     margin-top: -3px;
   }
 }
